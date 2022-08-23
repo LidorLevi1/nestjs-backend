@@ -25,6 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+This project requires .env files with the following params: DB_NAME, COOKIE_KEY for test and development 
 
 ## Installation
 
